@@ -150,7 +150,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-Dribble/screenshot.png
+![alt text](screenshot.png)
 
 
 ## RESULT:
