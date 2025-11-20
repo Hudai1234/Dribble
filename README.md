@@ -146,10 +146,11 @@ Publish the website in the LocalHost.
 </body>
 
 </html>
+```
 
 
 ## OUTPUT:
-Dribble/Screenshot 2025-11-20 223524.png
+Dribble/screenshot.png
 
 
 ## RESULT:
